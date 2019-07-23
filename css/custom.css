@@ -1,0 +1,110 @@
+.meter{
+	height: 24px;
+	position: relative;
+	border: 1px solid #f1f1f1;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	margin-bottom: 1em;
+}
+
+.sunflower > span{
+	background-color: #f1c40f;
+}
+
+.meter > span{
+	display: block;
+height: 100%;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+position: relative;
+overflow: hidden;
+}
+
+.meter > span > span {
+    margin-left: 4px;
+    color: #fff;
+}
+
+.g1{
+	width: 30%;
+}
+
+.carrot > span {
+    background-color: #e67e22;
+}
+
+
+.wisteria > span {
+
+    background-color: #8e44ad;
+
+}
+
+.heart > span {
+    background-color: #de2022;
+}
+
+.asbestos > span {
+    background-color: #7f8c8d;
+}
+
+.wisteria > span {
+    background-color: #8e44ad;
+}
+
+.sky > span {
+    background-color: #5bc0de;
+}
+
+.dirt > span {
+    background-color: #de5517;
+}
+
+.emerald > span {
+    background-color: #2ecc71;
+}
+
+.pink > span {
+    background-color: #de00b5;
+}
+
+.carrot > span {
+    background-color: #e67e22;
+}
+
+
+.heart > span {
+    background-color: #de2022;
+}
+
+.wisteria > span {
+    background-color: #8e44ad;
+}
+
+.sky > span {
+    background-color: #5bc0de;
+}
+
+.wisteria > span {
+    background-color: #8e44ad;
+}
+
+
+.wisteria > span {
+    background-color: #8e44ad;
+}
+  background-color: #2ecc71;
+}
+
+.dirt > span {
+    background-color: #de5517;
+}
+
+.emerald > span {
+    background-color: #2ecc71;
+}
+
+
+
